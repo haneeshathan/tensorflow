@@ -8,7 +8,7 @@ Install Tensorflow
 
 __pip install tensorflow__
 
-If your using _Anaconda_ it is prefered to use 
+If you are using _Anaconda_ it is prefered to use 
 
 __conda install tensorflow__
 
