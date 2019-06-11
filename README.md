@@ -6,9 +6,9 @@ Minimum requirment for running is tensorflow
 
 Install Tensorflow  
 
-__pip install tensorflow
+__pip install tensorflow__
 
-If your using _Anaconda it is prefered to use 
+If your using _Anaconda_ it is prefered to use 
 
-__conda install tensorflow
+__conda install tensorflow__
 
